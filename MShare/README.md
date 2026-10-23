@@ -26,7 +26,7 @@ Les champs `image` et `gallery` doivent contenir des captures d'écran réelles 
 | role | Conception & développement mobile |
 | client | Projet personnel |
 | duration | (laisser vide, ou indiquer la durée réelle) |
-| live_url | `https://github.com/MhdAlmouchafaou/apps-releases/releases/download/mshare-latest/MShare.apk` (téléchargement direct de la dernière version) |
+| live_url | `https://github.com/MhdAlmouchafaou/apps-releases/releases/download/mshare/MShare-1.2.1-build7.apk` (téléchargement direct de la version 1.2.1) |
 | repo_url | (laisser vide : le code source est privé) |
 | image | capture d'écran principale (écran d'accueil de l'app) ; en attendant, icône : `https://raw.githubusercontent.com/MhdAlmouchafaou/MShare/main/assets/icon.png` |
 | gallery | 3 à 5 captures : accueil, choix des fichiers, radar des appareils, transfert en cours, partage vers navigateur |

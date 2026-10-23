@@ -8,4 +8,4 @@
 
 | Application | Dernière version |
 |---|---|
-| MShare | https://github.com/MhdAlmouchafaou/apps-releases/releases/download/mshare-latest/MShare.apk |
+| MShare | https://github.com/MhdAlmouchafaou/apps-releases/releases/download/mshare/MShare-1.2.1-build7.apk |
